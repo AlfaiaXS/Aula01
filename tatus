@@ -1,0 +1,47 @@
+[33mcommit 45db091e069c3e8a9addf9b31acd48a19796d37a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Mateus Alfaia <89161303+AlfaiaXS@users.noreply.github.com>
+Date:   Thu Sep 18 21:06:08 2025 +0000
+
+    adiciona o arquivo
+
+[33mcommit f2c03b8b40f5b027e154dbb25c7353845c398741[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mateus Alfaia <89161303+AlfaiaXS@users.noreply.github.com>
+Date:   Thu Sep 18 18:23:51 2025 +0000
+
+    modifica a frase pela 2° vez
+
+[33mcommit 2fa665d37feb9f7c3082a51ed3dc1d6132e5f46c[m
+Author: Mateus Alfaia <89161303+AlfaiaXS@users.noreply.github.com>
+Date:   Thu Sep 18 18:14:41 2025 +0000
+
+    modifica a frase
+
+[33mcommit 9d19920412d133339185645744934310f6e44f6f[m
+Author: Mateus Alfaia <89161303+AlfaiaXS@users.noreply.github.com>
+Date:   Wed Sep 17 20:29:46 2025 +0000
+
+    adiciona pagina inicial
+
+[33mcommit 3e1d276eac72fcd6cc720b546fa7d122c880ce84[m
+Author: Mateus Alfaia <89161303+AlfaiaXS@users.noreply.github.com>
+Date:   Wed Sep 17 20:26:48 2025 +0000
+
+    adiciona os arquivos de manifesto
+
+[33mcommit 27c4ca996a4ec95899e39ea8f0f06ed26468998b[m
+Author: Mateus Alfaia <89161303+AlfaiaXS@users.noreply.github.com>
+Date:   Wed Sep 17 19:55:09 2025 +0000
+
+    adiciona o arquivo .nvmrc
+
+[33mcommit 7207ec21011bc33f5b72249f1a609dd4df854fb2[m
+Author: Mateus Alfaia <89161303+AlfaiaXS@users.noreply.github.com>
+Date:   Wed Sep 17 19:04:03 2025 +0000
+
+    adiciona o .gitignore
+
+[33mcommit 7ae65f5c1e2020a95d971f6612dcc6d1f27dd4ae[m
+Author: Mateus Alfaia <89161303+AlfaiaXS@users.noreply.github.com>
+Date:   Tue Sep 16 10:00:40 2025 -0400
+
+    Initial commit
